@@ -32,5 +32,20 @@ Confusion Matrices
 Based on the tested and tuned logistic regression model above, there are way too many false negatives and zero positives. This translates into many faulty predictions of individuals at risk of stroke based on the various selected health factors. I suggest utilizing a different model such as Random Forest to test out multiple predictions.
 
 
+## DATA
+Source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+
+Brief Description of Data
+
+'Adult Income' is a binary classification dataset which will experimented with models. We will use this dataset to demonstrate how to evaluate a classification model on a binary classification problem. Each record in this dataset correlates to adult income and each feature represents a demographic of an individual.
+
+Our task will be to create a model that classifies income level based on an individual's personal information.
+
+## METHODS
 
 - K-Nearest Neighbors Modeling
+
+Confusion Matrices
+
+![download (4)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/d4750e4e-fbee-41c8-8a7e-411ab11426dc)
+
