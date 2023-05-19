@@ -1,9 +1,9 @@
-# Machine_Learning
+# MACHINE_LEARNING
 Regression and Classification Models
 
 Author: Maybelline Monge
 
-## Data
+## DATA
 Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download
 
 Brief Description of Data
@@ -19,15 +19,24 @@ Some challenges one may foresee while cleaning, exploring and modeling this data
 - False Predictions and Sampling Errors
 
 
-## Methods
+## METHODS
 
 - Logistic Regression Modeling
 
-Confusion Matrices
+CONFUSION MATRICES
+Default
 
 ![download (1)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/9889542c-4412-47b6-87c1-eb2b3e59e854)
 
 ![download](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/35394db9-d216-4178-90d6-5af1b5a9f182)
+
+Tuned
+
+![download (2)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/be55292a-f8e9-4548-9678-fce43ec9d87f)
+
+![download (3)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/827f3bbc-5e60-4c6e-832d-b4231ec6d2b8)
+
+Based on the tested and tuned logistic regression model above, there are way too many false negatives and zero positives. This translates into many faulty predictions of individuals at risk of stroke based on the various selected health factors. I suggest utilizing a different model such as Random Forest to test out multiple predictions.
 
 
 - K-Nearest Neighbors Modeling
