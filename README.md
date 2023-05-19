@@ -12,6 +12,13 @@ Brief Description of Data
 
 Our task will be to create a model that predicts an individual's risk of stroke based on the their personal health factors.
 
+Some challenges one may foresee while cleaning, exploring and modeling this dataset can be the following:
+- Data Leakage
+- Duplicated, Inconsistent, and/or Missing values
+- Class Imbalances
+- False Predictions and Sampling Errors
+
+
 ## Methods
 
 - Logistic Regression Modeling
