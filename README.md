@@ -24,13 +24,6 @@ Some challenges one may foresee while cleaning, exploring and modeling this data
 - Logistic Regression Modeling
 
 CONFUSION MATRICES
-Default
-
-![download (1)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/9889542c-4412-47b6-87c1-eb2b3e59e854)
-
-![download](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/35394db9-d216-4178-90d6-5af1b5a9f182)
-
-Tuned
 
 ![download (2)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/be55292a-f8e9-4548-9678-fce43ec9d87f)
 
