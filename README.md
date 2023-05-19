@@ -23,13 +23,14 @@ Some challenges one may foresee while cleaning, exploring and modeling this data
 
 - Logistic Regression Modeling
 
-CONFUSION MATRICES
+Confusion Matrices
 
 ![download (2)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/be55292a-f8e9-4548-9678-fce43ec9d87f)
 
 ![download (3)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/827f3bbc-5e60-4c6e-832d-b4231ec6d2b8)
 
 Based on the tested and tuned logistic regression model above, there are way too many false negatives and zero positives. This translates into many faulty predictions of individuals at risk of stroke based on the various selected health factors. I suggest utilizing a different model such as Random Forest to test out multiple predictions.
+
 
 
 - K-Nearest Neighbors Modeling
