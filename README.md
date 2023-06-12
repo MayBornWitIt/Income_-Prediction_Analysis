@@ -54,3 +54,8 @@ Based on the tested and tuned knn model above, results are modeling the dataset 
 Exploratory Data Analysis
 
 ![image](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/33c898e2-50d3-44bc-a289-d2d9d241b2a9)
+
+Based on the bar graph above it displays Male Asian-Pacific Islanders having the highest capital gains in the dataset. Second being White Males.
+
+![heatmap](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/5537775f-f996-4d64-b83e-072bb275d66d)
+
