@@ -59,5 +59,6 @@ Based on the bar graph above it displays Male Asian-Pacific Islanders having the
 
 ![heatmap](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/5537775f-f996-4d64-b83e-072bb275d66d)
 Visualization of Education Level, Gender and Weekly Hours
+
 Based on the heatmap displayed above one can see a high correlation of male & females with a Doctorate and Professional School education pull the most weekly hours.
 
