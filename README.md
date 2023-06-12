@@ -50,3 +50,7 @@ Confusion Matrices
 ![download (4)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/d4750e4e-fbee-41c8-8a7e-411ab11426dc)
 
 Based on the tested and tuned knn model above, results are modeling the dataset having 40% false negative predictions. This translates into inaccurate predictions of adult income more or less than $50K based on the selected demographics. Refining the demographics would help reduce the false negatives for more ideal modeling predictions.
+
+Exploratory Data Analysis
+
+![image](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/33c898e2-50d3-44bc-a289-d2d9d241b2a9)
