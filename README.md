@@ -53,6 +53,10 @@ Based on the tested and tuned knn model above, results are modeling the dataset 
 
 Exploratory Data Analysis
 
+![pie](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/be7b05d0-f692-4dfd-b51e-cb737f7d55c2)
+
+Based on the pie graph above, it displays the majority of adults in the dataset as making less than $50k.
+
 ![image](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/33c898e2-50d3-44bc-a289-d2d9d241b2a9)
 
 Based on the bar graph above it displays Male Asian-Pacific Islanders having the highest capital gains in the dataset. Second being White Males.
