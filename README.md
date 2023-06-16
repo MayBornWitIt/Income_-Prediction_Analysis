@@ -66,3 +66,15 @@ Based on the heatmap displayed above one can see a high correlation of male & fe
 
 Based on the barplot above, majority of older adults whom are self employed make over 50K income.
 Whereas, majority of young adults in the private sector make less than 50k income.
+
+![CM ENGINEERED](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/56d72de8-0d21-4cfd-b843-ec68ffa5ed9f)
+
+ENGINEERED CONFUSION MATRIX 
+
+![CM PCA](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/4fb7b1cf-99a0-49e2-b73e-6bfa6fa74383)
+
+ENGINEERED WITH PCA CONFUSION MATRIX
+
+Based on the engineered models above, they have tested closely together for accuracy. One being tuned and tested KNN Model at 83% accuracy rate with less False Positives. Whereas, the other model tested with Principal Component Analysis (PCA) at 82% accuracy rate with higher False Positives. Although, KNN model with PCA definitely is a shorter process in obtaining results.
+
+Based on the data exploration, suggest stakeholders utilize tuned and tested engineered KNN Model with higher accuracy rate. Would suggest analyzing further into Asian Pacific Islander Males to see the correlation between Capital Gains and Income influences as they seem to rank high in this dataset.
