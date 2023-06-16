@@ -43,23 +43,17 @@ Our task will be to create a model that classifies income level based on an indi
 
 ## METHODS
 
-- K-Nearest Neighbors Modeling
-
-Confusion Matrices
-
-![download (4)](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/d4750e4e-fbee-41c8-8a7e-411ab11426dc)
-
-Based on the tested and tuned knn model above, results are modeling the dataset having 40% false negative predictions. This translates into inaccurate predictions of adult income more or less than $50K based on the selected demographics. Refining the demographics would help reduce the false negatives for more ideal modeling predictions.
-
 Exploratory Data Analysis
 
 ![pie](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/be7b05d0-f692-4dfd-b51e-cb737f7d55c2)
 
 Based on the pie graph above, it displays the majority of adults in the dataset as making less than $50k.
 
+
 ![image](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/33c898e2-50d3-44bc-a289-d2d9d241b2a9)
 
 Based on the bar graph above it displays Male Asian-Pacific Islanders having the highest capital gains in the dataset. Second being White Males.
+
 
 ![heatmap](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/5537775f-f996-4d64-b83e-072bb275d66d)
 
