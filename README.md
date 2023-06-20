@@ -14,7 +14,6 @@ Explore data and recommend a machine learning model that classifies an adult's i
 ## DATASET DESCRIPTION
 Source: (https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
-Brief Description of Data
 'Adult Income' is a binary classification dataset that targets whether an adult's salary is greater or less than $50,000. Each row in this dataset provides statistical information pertaining to income level, and each column represents a demographic feature of an individual.
 
 
