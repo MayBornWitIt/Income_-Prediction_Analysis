@@ -29,4 +29,4 @@ Source: (https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 ## CONTACT INFORMATION
 For collaborative opportunities direct communications to may.george.mg@gmail.com
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/maybelline-bornwithit-george
