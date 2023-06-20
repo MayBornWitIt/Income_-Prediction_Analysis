@@ -8,7 +8,7 @@ Image Source: https://www.dailywisely.com/5-simple-ways-to-boost-your-income/
 Author: Maybelline Monge
 
 
-# PROJECT OBJECTIVE
+## PROJECT OBJECTIVE
 Explore data and recommend a machine learning model that classifies an adult's income level based on various attributes from the dataset provided.
 
 ## DATASET DESCRIPTION
