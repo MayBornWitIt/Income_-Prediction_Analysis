@@ -4,7 +4,7 @@
 Image Source: https://www.dailywisely.com/5-simple-ways-to-boost-your-income/
 
 
-# Income Prediction 
+# INCOME PREDICTION ANALYSIS
 Adult Income Prediction Analysis
 
 Author: Maybelline Monge
