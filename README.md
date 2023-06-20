@@ -1,5 +1,6 @@
 
 ![income](https://github.com/MayBornWitIt/Machine_Learning/assets/126980733/cc0ad3ba-6412-4480-bcaf-1127c6c7bcf9)
+
 Image Source: https://www.dailywisely.com/5-simple-ways-to-boost-your-income/
 
 
