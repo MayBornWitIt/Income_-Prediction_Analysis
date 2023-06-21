@@ -17,6 +17,9 @@ Source: (https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 'Adult Income' is a binary classification dataset that classifies an adult's income level based on various demographical attributes. Each row in this dataset provides statistical information pertaining to income level, and each column represents a demographic feature of an individual.
 
 
+
+
+
 ## ANALYTICAL INSIGHTS
 
 ![pie](https://github.com/MayBornWitIt/Income_-Prediction_Analysis/assets/126980733/72e2ceb4-4f30-41ce-a619-03363093077e)
@@ -25,9 +28,11 @@ Based on the pie graph above, it displays about 75% of adults in the dataset mak
 
 
 
+
 ![Screenshot (25)](https://github.com/MayBornWitIt/Income_-Prediction_Analysis/assets/126980733/aeeff507-f645-4d16-b273-8e705663e171)
 
 Based on the boxplot above, the 'age' feature appears to have outliers from 47 years of age and beyond 75. Median recorded age in the dataset being 37.
+
 
 
 
@@ -38,9 +43,11 @@ Whereas, majority of young adults in the private sector make a salary less than 
 
 
 
+
 ![raceincome](https://github.com/MayBornWitIt/Income_-Prediction_Analysis/assets/126980733/8e168047-dde4-4976-9f87-9e17638e3dde)
 
 Based on the plot displayed above, there is a great disparity between income and race distinction. Notable information.
+
 
 
 
@@ -50,12 +57,15 @@ This plot shows a correlation between income as related to education. This yield
 
 
 
+
+
 ## MACHINE LEARNING MODELS (METHODS & RESULTS)
 
 ![train test matrices](https://github.com/MayBornWitIt/Income_-Prediction_Analysis/assets/126980733/4144fac0-6c7f-4b94-ab31-a93ec1e5a9f2)
 
 
 ![Screenshot (19)](https://github.com/MayBornWitIt/Income_-Prediction_Analysis/assets/126980733/4b71f9a6-16c0-44c6-82fe-050401b6d2c0)
+
 
 
 
