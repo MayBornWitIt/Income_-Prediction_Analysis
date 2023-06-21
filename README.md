@@ -71,7 +71,8 @@ This plot shows a correlation between income as related to education. This yield
 
 
 ## SUMMARY & RECOMMENDATION
-Given the results of the various explored models, it's suggested that the Tuned Logistic Regression Model is the best production model for the business problem at hand. The model accuracy score being the highest at 83% implies it's the highest predictive model with the most number of samples that display out to be in the positive class. As this is a classification task of whether the income in the sample crosses a threshhold of 50k or higher, yes or no, this metric yields the most value with fewer false positives.
+Given the results various explored models, it's suggested that the Tuned Logistic Regression Model is the best production model for the business problem at hand. The model accuracy score being the highest at 83% implies it's the highest predictive model with the most number of samples that display out to be in the positive class. As this is a classification task of whether the income in the sample crosses a threshhold of 50k or higher, yes or no, this metric yields the most value with fewer false positives.
+
 
 
 ## CONTACT INFORMATION
